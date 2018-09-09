@@ -1,0 +1,23 @@
+{
+  "name": "plugin-mail",
+  "version": "1.0.0",
+  "description": "email plugin for viaflow",
+  "main": "index.js",
+  "dependencies": {
+    "emailjs": "^2.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/viaflow/plugin-mail.git"
+  },
+  "author": "Guo Tuo <guotuo1024@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/viaflow/plugin-mail/issues"
+  },
+  "homepage": "https://github.com/viaflow/plugin-mail#readme"
+}
